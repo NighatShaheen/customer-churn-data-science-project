@@ -78,6 +78,15 @@ Because the dataset contains more non-churned than churned customers, model perf
 - Confusion Matrix
 
 > **Status:** Exploratory data analysis is complete. Machine learning model development is currently in progress.
+> ## Technologies
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Development:** Jupyter Notebook
+- **Dashboard:** Streamlit, Plotly
+- **Version Control:** Git, GitHub
 
 ## Project Structure
 
